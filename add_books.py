@@ -1,4 +1,4 @@
-from main import books
+from books import books
 
 def add_books():
     name = input("Enter the name of the book: ")
